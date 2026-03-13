@@ -3,7 +3,12 @@
 <h3 align="center">Full Stack Developer | MERN Stack Enthusiast</h3>
 <h3 align="center">Final Year Student at IIIT Una</h3>
 
+</p>
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif" />
+
+<br>
+<br>
 
 ## 📫 Connect With Me  
 <br>
