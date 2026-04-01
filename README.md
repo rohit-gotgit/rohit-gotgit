@@ -150,11 +150,11 @@
 
 ## My personal values and work ethic
 
-✨ I believe strong engineering comes from **discipline, curiosity and consistency**.
+✨ I believe impactful engineering is built on discipline, curiosity, and consistent execution.
 
-✨ I enjoy solving **Data Structures & Algorithms problems on LeetCode**.
+✨ I continuously refine my problem-solving skills through Data Structures & Algorithms challenges on LeetCode.
 
-✨ I like building **full stack applications that solve real world problems**.
+✨ I enjoy building scalable full-stack applications that solve real-world problems with meaningful impact.
 
 ✨ Preferred JS frameworks ✔ Next.js ✔ React.js ✔ JavaScript ✔ TypeScript
 
