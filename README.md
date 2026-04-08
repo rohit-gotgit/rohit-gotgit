@@ -10,7 +10,7 @@
 <br>
 <br>
 
-# 💻 My Favorite Tools and Technologies
+# 💻 Tech Stack & Core Expertise
 
 <table align="center">
 <tr>
@@ -163,4 +163,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-gotgit&theme=dark&hide_border=false&layout=compact)
 
 ### ✍ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
