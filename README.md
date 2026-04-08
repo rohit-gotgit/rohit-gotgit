@@ -128,7 +128,7 @@
 </tr>
 </table>
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" style="max-width: 100%;">
+
 
 ## My personal values and work ethic
 
