@@ -158,9 +158,6 @@
 <br/>  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rohit-gotgit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=rohit-gotgit&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-gotgit&theme=dark&hide_border=false&layout=compact)
-
-### ✍ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api?username=rohit-gotgit&theme=dark&hide_border=true&v=3)
+![](https://streak-stats.demolab.com?user=rohit-gotgit&theme=dark&hide_border=true&v=3)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-gotgit&theme=dark&hide_border=true&layout=compact&v=3)
