@@ -6,7 +6,6 @@
 <br>
 
 # Tech Stack & Core Expertise
-
 <table align="center">
 <tr>
 <td align="center" width="96">
@@ -126,7 +125,6 @@
 
 
 ## My personal values and work ethic
-
 ✨ I believe impactful engineering is built on discipline, curiosity, and consistent execution.
 
 ✨ I continuously refine my problem-solving skills through Data Structures & Algorithms challenges on LeetCode.
@@ -148,7 +146,7 @@
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rohit-gotgit&&style=flat-square)    
+![Profile views counter](https://komarev.com/ghpvc/?username=rohit-gotgit&&style=flat-square)
 
 <br/>  
 
