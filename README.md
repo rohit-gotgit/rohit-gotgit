@@ -140,7 +140,9 @@
 ✨ Projects I built  
 ✔ **Styra** – Full stack eCommerce web application  
 ✔ **JanHit** – Public complaint platform  
-✔ **HealthMate** – AI assisted medical guidance platform
+✔ **Finance Dashboard Backend** – Role-Based Finance API System  
+✔ **HealthMate** – AI assisted medical guidance platform  
+
 
 <br/>  
 
