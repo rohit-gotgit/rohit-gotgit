@@ -151,6 +151,16 @@
 <br/>  
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rohit-gotgit&theme=dark&hide_border=true&v=3)
-![](https://streak-stats.demolab.com?user=rohit-gotgit&theme=dark&hide_border=true&v=3)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-gotgit&theme=dark&hide_border=true&layout=compact&v=3)
+
+<div align="center">
+
+  <!-- Top Row -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rohit-gotgit&theme=dark&hide_border=true&v=3" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-gotgit&theme=dark&hide_border=true&layout=compact&v=3" height="180px"/>
+
+  <br/><br/>
+
+  <!-- Bottom Row (Reduced Height Streak) -->
+  <img src="https://streak-stats.demolab.com?user=rohit-gotgit&theme=dark&hide_border=true&ring=ff9f1c&fire=ff9f1c&currStreakLabel=ff9f1c&sideLabels=ffffff&dates=aaaaaa&stroke=0000&v=3" height="150px"/>
+
+</div>
