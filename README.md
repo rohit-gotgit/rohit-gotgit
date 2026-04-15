@@ -123,33 +123,30 @@
 
 
 ## My personal values and work ethic
-● I believe impactful engineering is built on discipline, curiosity, and consistent execution.
+✦ I believe impactful engineering is built on discipline, curiosity, and consistent execution.
 
-● I continuously refine my problem-solving skills through Data Structures & Algorithms challenges on LeetCode.
+✦ I continuously refine my problem-solving skills through Data Structures & Algorithms challenges on LeetCode.
 
-● I enjoy building scalable full-stack applications that solve real-world problems with meaningful impact.
+✦ I enjoy building scalable full-stack applications that solve real-world problems with meaningful impact.
 
-● Preferred JS frameworks ✔ Next.js ✔ React.js ✔ JavaScript ✔ TypeScript
+✦ Preferred JS frameworks ✔ Next.js ✔ React.js ✔ JavaScript ✔ TypeScript
 
-● Backend technologies ✔ Node.js ✔ Express ✔ REST APIs
+✦ Backend technologies ✔ Node.js ✔ Express ✔ REST APIs
 
-● Database options ✔ MongoDB ✔ MySQL ✔ PostgreSQL
+✦ Database options ✔ MongoDB ✔ MySQL ✔ PostgreSQL
 
-● Cloud & DevOps ✔ AWS ✔ Docker ✔ Linux
+✦ Cloud & DevOps ✔ AWS ✔ Docker ✔ Linux
 
-● Projects I built  
+✦ Projects I built  
 ✔ **Styra** – Full stack eCommerce web application  
 ✔ **JanHit** – Public complaint platform  
 ✔ **Finance Dashboard Backend** – Role-Based Finance API System  
 ✔ **HealthMate** – AI assisted medical guidance platform  
 
-
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=rohit-gotgit&&style=flat-square)
-
-<br/>  
-
+ 
 # GitHub Stats:
 
 <div align="center">
