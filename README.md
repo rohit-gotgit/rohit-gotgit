@@ -154,18 +154,18 @@
 
 <div align="center">
 
-  <table width="100%">
+  <table width="100%" cellspacing="0" cellpadding="0" border="0">
     <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=rohit-gotgit&theme=dark&hide_border=true&hide_title=true&v=3" width="100%"/>
+      <td width="50%" style="padding: 0;">
+        <img src="https://github-readme-stats.vercel.app/api?username=rohit-gotgit&theme=dark&hide_border=true&hide_title=true&bg_color=00000000&v=3" width="100%" />
       </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-gotgit&theme=dark&hide_border=true&layout=compact&v=3" width="100%"/>
+      <td width="50%" style="padding: 0;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-gotgit&theme=dark&hide_border=true&layout=compact&bg_color=00000000&v=3" width="100%" />
       </td>
     </tr>
     <tr>
-      <td colspan="2">
-        <img src="https://streak-stats.demolab.com?user=rohit-gotgit&theme=dark&hide_border=true&stroke=0000&v=3" width="100%"/>
+      <td colspan="2" style="padding: 0;">
+        <img src="https://streak-stats.demolab.com?user=rohit-gotgit&theme=dark&hide_border=true&stroke=0000&background=00000000&ring=ff9f1c&fire=ff9f1c&currStreakLabel=ff9f1c&sideLabels=ffffff&dates=aaaaaa&v=3" width="100%" height="140px"/>
       </td>
     </tr>
   </table>
