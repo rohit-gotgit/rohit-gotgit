@@ -122,7 +122,7 @@
 
 
 
-## My personal values and work ethi
+## My personal values and work ethic
 ✦ I believe impactful engineering is built on discipline, curiosity, and consistent execution.
 
 ✦ I continuously refine my problem-solving skills through Data Structures & Algorithms challenges on LeetCode.
