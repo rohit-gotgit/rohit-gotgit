@@ -3,7 +3,7 @@
 </p>
 <br>
 
-# Tech Stack & Core Expertise
+# Tech Stack & Core Expertis
 <table align="center">
 <tr>
 <td align="center" width="96">
