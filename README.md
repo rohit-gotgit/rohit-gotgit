@@ -138,7 +138,7 @@
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rohit-gotgit&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ff9f1c&hide_title=true" width="100%" />
       </td>
       <td width="50%" style="padding: 0;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-gotgit&theme=dark&hide_border=true&layout=compact&bg_color=00000000&v=3" width="100%" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rohit-gotgit&theme=dark&hide_border=true&layout=compact&bg_color=00000000" width="100%" />
       </td>
     </tr>
     <tr>
