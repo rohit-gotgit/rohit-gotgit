@@ -118,16 +118,50 @@
 <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/><br>PostgreSQL
 </td>
 </tr>
+
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/><br>Java
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot"/><br>Spring Boot
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Microservices Architecture"/><br>Microservices Architecture
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka"/><br>Kafka
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis"/><br>Redis
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes"/><br>Kubernetes
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins"/><br>Jenkins
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions"/><br>GitHub Actions
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="REST API Design"/><br>REST API Design (Advanced)
+</td>
+</tr>
 </table>
 
-
-
-
-
-<br/>  
+<br/>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=rohit-gotgit&&style=flat-square)
- 
+
 # GitHub Stats:
 
 <div align="center">
