@@ -5,21 +5,14 @@
 
 # Tech Stack & Core Expertise
 <table align="center">
+
 <tr>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React"/><br>React
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++"/><br>C++
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/><br>Next.js
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/><br>Node.js
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js"/><br>Express.js
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/><br>Java
 </td>
 
 <td align="center" width="96">
@@ -39,11 +32,35 @@
 </td>
 
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++"/><br>C++
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/><br>HTML5
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS"/><br>CSS
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br>Git
 </td>
 </tr>
 
 <tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React"/><br>React
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/><br>Next.js
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux"/><br>Redux
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS"/><br>Tailwind CSS
+</td>
+
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap"/><br>Bootstrap
 </td>
@@ -53,27 +70,11 @@
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=matlab" width="48" height="48" alt="MATLAB"/><br>MATLAB
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/><br>VS Code
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux"/><br>Redux
-</td>
-
-<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase"/><br>Firebase
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS"/><br>Tailwind CSS
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br>Git
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/><br>VS Code
 </td>
 
 <td align="center" width="96">
@@ -83,45 +84,11 @@
 
 <tr>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/><br>Docker
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/><br>Node.js
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/><br>HTML5
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS"/><br>CSS
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"/><br>AWS
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/><br>Linux
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/><br>Postman
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/><br>MongoDB
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/><br>MySQL
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/><br>PostgreSQL
-</td>
-</tr>
-
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/><br>Java
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js"/><br>Express.js
 </td>
 
 <td align="center" width="96">
@@ -129,7 +96,37 @@
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Microservices Architecture"/><br>Microservices Architecture
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="REST API"/><br>REST API
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma"/><br>Prisma
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/><br>MongoDB
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/><br>PostgreSQL
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/><br>MySQL
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis"/><br>Redis
+</td>
+</tr>
+
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/><br>Docker
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes"/><br>Kubernetes
 </td>
 
 <td align="center" width="96">
@@ -137,11 +134,11 @@
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis"/><br>Redis
+<img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx"/><br>Nginx
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes"/><br>Kubernetes
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"/><br>AWS
 </td>
 
 <td align="center" width="96">
@@ -153,9 +150,14 @@
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="REST API Design"/><br>REST API Design (Advanced)
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/><br>Linux
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/><br>Postman
 </td>
 </tr>
+
 </table>
 
 <br/>
