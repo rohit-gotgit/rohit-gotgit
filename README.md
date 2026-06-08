@@ -12,10 +12,6 @@
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/><br>Java
-</td>
-
-<td align="center" width="96">
 <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript"/><br>JavaScript
 </td>
 
@@ -32,15 +28,19 @@
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/><br>HTML5
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS"/><br>CSS
-</td>
-
-<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br>Git
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/><br>GitHub
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/><br>Linux
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/><br>VS Code
 </td>
 </tr>
 
@@ -70,15 +70,15 @@
 </td>
 
 <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/><br>HTML5
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS"/><br>CSS
+</td>
+
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase"/><br>Firebase
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/><br>VS Code
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/><br>GitHub
 </td>
 </tr>
 
@@ -92,7 +92,11 @@
 </td>
 
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot"/><br>Spring Boot
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" width="48" height="48" alt="Socket.IO"/><br>Socket.IO
+</td>
+
+<td align="center" width="96">
+<img src="https://jwt.io/img/pic_logo.svg" width="48" height="48" alt="JWT Auth"/><br>JWT Auth
 </td>
 
 <td align="center" width="96">
@@ -114,13 +118,13 @@
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/><br>MySQL
 </td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis"/><br>Redis
-</td>
 </tr>
 
 <tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis"/><br>Redis
+</td>
+
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/><br>Docker
 </td>
@@ -147,10 +151,6 @@
 
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions"/><br>GitHub Actions
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/><br>Linux
 </td>
 
 <td align="center" width="96">
