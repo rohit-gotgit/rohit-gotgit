@@ -162,7 +162,7 @@
 
 <br/>
 
-
+![Profile views counter](https://komarev.com/ghpvc/?username=rohit-gotgit&&style=flat-square)
 
 # GitHub Stats:
 
