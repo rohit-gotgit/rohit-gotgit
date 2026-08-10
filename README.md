@@ -164,24 +164,3 @@
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=rohit-gotgit&&style=flat-square)
 
-# GitHub Stats:
-
-<div align="center">
-
-  <table width="100%" cellspacing="0" cellpadding="0" border="0">
-    <tr>
-      <td width="50%" style="padding: 0;">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rohit-gotgit&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ff9f1c&hide_title=true" width="100%" />
-      </td>
-      <td width="50%" style="padding: 0;">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rohit-gotgit&theme=dark&hide_border=true&layout=compact&bg_color=00000000" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" style="padding: 0;">
-        <img src="https://streak-stats.demolab.com?user=rohit-gotgit&theme=dark&hide_border=true&stroke=0000&background=00000000&ring=ff9f1c&fire=ff9f1c&currStreakLabel=ff9f1c&sideLabels=ffffff&dates=aaaaaa&v=3" width="100%" height="140px"/>
-      </td>
-    </tr>
-  </table>
-
-</div>
