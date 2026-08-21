@@ -170,22 +170,29 @@
   <table width="100%" cellspacing="0" cellpadding="0" border="0">
     <tr>
       <td width="50%" style="padding: 0;">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=rohit-gotgit&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ff9f1c&hide_title=true" width="100%" />
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohit-gotgit&theme=github_dark&hide_border=true&bg_color=00000000"
+          width="100%"
+          height="300px"
+        />
       </td>
       <td width="50%" style="padding: 0;">
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rohit-gotgit&theme=dark&hide_border=true&layout=compact&bg_color=00000000" width="100%" />
+        <img
+          src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rohit-gotgit&theme=dark&hide_border=true&layout=compact&bg_color=00000000&title_color=ffffff&text_color=aaaaaa"
+          width="100%"
+          height="300px"
+        />
       </td>
     </tr>
     <tr>
       <td colspan="2" style="padding: 0;">
         <img
-          src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-gotgit&bg_color=00000000&color=aaaaaa&line=ff9f1c&point=ff9f1c&area=true&hide_border=true"
+          src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-gotgit&bg_color=00000000&color=aaaaaa&line=ff9f1c&point=ff9f1c&area=true&area_color=ff9f1c&hide_border=true&radius=8&height=300&days=30&custom_title=Rohit%20Kumar%27s%20Contribution%20Graph"
           width="100%"
-          height="140px"
+          height="300px"
         />
       </td>
     </tr>
-
   </table>
 
 </div>
